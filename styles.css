@@ -23,3 +23,13 @@ main {
 .cards {
   background: #eee;
 }
+
+h2 {
+  font-size:1.375em;
+  line-height: 1;
+}
+
+p{
+  font-size: 1em;
+  line-height: 1.375;
+}
