@@ -40,7 +40,7 @@ main {
 
 .card h2 {
   font-size:1.375rem;
-  line-height: 1;
+  line-height: 1.375rem;
   margin:0.625rem;
   word-break: break-word;
 }
@@ -58,7 +58,7 @@ img {
 }
 
 .card__p {
-  margin: 0.625rem;  /*kannski eyða*/
+  margin: 0.625rem 0.3125 0.625rem 0.625rem ;  /*kannski eyða*/
   font-size: 1rem;
   line-height: 1.375;
   word-break: break-word;
@@ -72,9 +72,9 @@ img {
 ul{
   display: flex;
   list-style: none;
-  margin-left: 0.625rem;
   flex-wrap: wrap;
   margin-top: auto;
+  margin-left: 0.625rem;
   margin-bottom: 0.625rem;
 }
 
